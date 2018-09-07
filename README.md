@@ -1,2 +1,5 @@
 # hello-world
-I will complete the "Hello world" tutorial!!
+
+I have no idea what I am doing.
+
+I like cats.
